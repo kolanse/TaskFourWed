@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF647F</color>
+    <color name="colorPrimaryDark">#c83645</color>
+    <color name="colorAccent">#f3a839</color>
+
+
+<!--    layout colors-->
+
+    <color name="upperLayout">#e94450</color>
+    <color name="lowerLayout">#68d092</color>
+    <color name="buttonTextColor">#fdf7ff</color>
+    <color name="iconColor">#060210</color>
+    <color name="titleColor">#fdf7ff</color>
+    <color name="contentColor">#fdf7ff</color>
+    <color name="buttonColor">#e94450</color>
+    <color name="switchColor">#4a42dd</color>
+</resources>

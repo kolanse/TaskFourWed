@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task Three</string>
+    <string name="name">Welcome to app</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="content">3,666 businesses signed up last week.\n Try Acme free for 30 days.</string>
+</resources>
